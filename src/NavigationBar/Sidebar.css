@@ -1,0 +1,6 @@
+/* .inactive-link{
+    @apply me-[18px] ms-1 inline-flex h-1 w-1 rounded-full bg-current transition-all duration-200 opacity-40
+    }
+    .active-link{
+    @apply me-[18px] ms-1 inline-flex h-1 w-1 rounded-full transition-all duration-200 bg-primary ring-[1px] ring-primary
+    } */
